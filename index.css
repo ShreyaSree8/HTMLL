@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    color: aliceblue;
+    background-color: brown;
+    padding: auto;
+    padding: 30px;
+}
+.right{
+    margin-top: 5%;
+    width:30%;
+    float: right;
+    font-size:large;
+
+}
+.middle{
+    width: 30%;
+    margin: 6% auto;
+    font-size:large;
+}
+.left{
+    margin-top: 5%;
+    width: 30%;
+    float: left;
+    font-size:large;
+    
+
+}
